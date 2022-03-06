@@ -1,4 +1,4 @@
-#def liczba_roznych_slow(content):
-set = {"cd", "cd","asudgduyguyge","a","a"}
+def liczba_roznych_slow(content):
+    set = {}
 print (set)
 print (len(set))
